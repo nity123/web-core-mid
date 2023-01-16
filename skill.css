@@ -1,0 +1,14 @@
+body {
+    background-image: url(image/back3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar {
+    background-color: white;
+}
+.card{
+    max-width: 100%;
+    background-color: black;
+
+}

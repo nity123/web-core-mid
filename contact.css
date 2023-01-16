@@ -1,0 +1,30 @@
+body {
+    background-image: url(image/back3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navbar {
+    background-color: white;
+}
+#contact-image{
+    width: 90%;
+}
+.form-label{
+    color:black;
+}
+.form-control{
+    opacity: 0.8;
+}
+.mb-3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.card{
+    max-width: 540px;
+    padding-bottom: 15px;
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+}
